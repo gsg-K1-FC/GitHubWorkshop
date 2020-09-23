@@ -4,13 +4,11 @@ This exercise Will help you prctice more on Git and GitHub.
 
 <p>&nbsp;</p>
 
-## What to do?
+## What should you do?
 
----
 
 ### Each student have to do the following steps:
 
-<br />
 
 - Clone the GitHubWorkshop Repo.
 - Create a new isuue with a descriptive title and comment and assign it to yourself.
