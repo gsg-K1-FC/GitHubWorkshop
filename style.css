@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=El+Messiri&display=swap");
+body {
+  font-family: "El Messiri", sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #353637;
+  color: white;
+  padding-top: 30px;
+  min-height: 70px;
+  font-size: 35px;
+}
+
+.studentName {
+  color: #32a0c2;
+  text-align: center;
+}
+
+.container {
+  margin: 10px;
+}
+
+.aboutMe {
+  font-size: 28px;
+  margin-bottom: 2px;
+}
