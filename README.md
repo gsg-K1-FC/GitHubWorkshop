@@ -43,7 +43,14 @@ $ git checkout -b sahar
   ```
   
  
-    - Add more info about you in `about me` section (you can use the project that you have built in session01).
+    - Add more info about you in `about me` section (you can use the project that you have built in session01).Just make sure to add it on a `<p>` tag.
+for example:
+```html
+<section class="container">
+    <h3 class="aboutMe">About me</h3>
+    <p>your info</p>
+</section>
+```
 
 ---
 ### Step 4: Add the new files to the staging area and commit your changs. :muscle:
